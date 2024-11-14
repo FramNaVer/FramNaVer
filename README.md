@@ -26,4 +26,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
+<a href="http://www.github.com/FramNaVer"><img src="https://github-readme-stats.vercel.app/api?username=FramNaVer&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="FramNaVer's GitHub stats" /></a>
+
+
+
+
+
 
