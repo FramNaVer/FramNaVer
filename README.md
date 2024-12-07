@@ -12,6 +12,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning React , Laravel
 * ⚡  ช่วงนี้ผมกำลังมองหามมที่ฝึกงานอยู่ครับ จะรู้สึกยินดีเป็นอย่างยิ่งถ้าได้ร่วมฝึกงานกับบริษัทของท่าน
 
+<div id="header">
+  <img src="https://plus.unsplash.com/premium_photo-1719943510748-4b4354fbcf56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmF0dXJlfGVufDB8fDB8fHww" width="100">
+</div>
+
 ### Skills
 
 
