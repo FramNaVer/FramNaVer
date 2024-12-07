@@ -1,10 +1,10 @@
 
-<div align="center"><h1>TANADON INMANO</h1></div>
+<div align="center"><h2>👋 สวัสดีครับ! ผม นาย ธนดล อิ่นมะโน</h2></div>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY1M3d2cWQ0cWo0OW9qMDAzc3p5dXZzcHI3bjE4ZXZibXlmem82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp" width="100"/>
 </div>
 
-<div align="center", font-weight="bold"><h2>CONTACT ME</h2></div>
+
 <div id="badges" align="center">
   <a href="https://simpleicons.org/?q=email">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,45 +22,58 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=FramNaVer&style=flat-square&color=blue" alt=""/>
   </div>
-  
 </div>
 
 
 
 
 <div id="content" style="font-family: poppins, sans-serif; margin: 20px;">
-  <h2 style="text-align: center; color: #333;">ABOUT</h2>
-  <p style="text-align: justify; line-height: 1.6;">
-    สวัสดีครับ ผมนาย ธนดล อิ่นมะโน ผมมีความสนใจทางด้านการออกแบบและพัฒนาเว็บไซต์ และมีการเรียนรู้เกี่ยวกับเทรน AI 
-    ตลอดจนถึงการพัฒนาเกมครับ
-  </p>
+  <h2 style="text-align: center; color: #333;">🌟 เกี่ยวกับผม</h2>
+  - 🎓 นักศึกษาสาขาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้ (GPA: 3.77) <br>
+  - 💻 สนใจด้าน **การออกแบบและพัฒนาเว็บไซต์**, **AI**, และ **พัฒนาเกม** <br>
+  - 🌱 กำลังเรียนรู้: React, Full-Stack Development <br>
 
+  
   <div id="skill" style="margin-top: 30px;">
-    <h3 style="text-align: center; color: #444;">SKILLS</h3>
+    <h3 style="text-align: center; color: #444;">ทักษะ</h3>
     <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
       <thead>
         <tr style="background-color: #f5f5f5; border-bottom: 1px solid #ddd;">
-          <th style="padding: 10px;">Font-End</th>
-          <th style="padding: 10px;">Back-End</th>
+          <th style="padding: 10px;">Languages programing</th>
+          <th style="padding: 10px;">Fremework-Font-End</th>
+          <th style="padding: 10px;">Framwork-Back-End</th>
           <th style="padding: 10px;">Databases</th>
         </tr>
       </thead>
       <tbody>
         <tr style="border-bottom: 1px solid #ddd;">
-          <td style="padding: 10px; text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          <td style="padding: 10px; text-align: center;" align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; <br>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
           </td>
-          <td style="padding: 10px; text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          <td style="padding: 10px; text-align: center;" align="center">
+              <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp; <br>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;         
           </td>
-          <td style="padding: 10px; text-align: center;">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          <td style="padding: 10px; text-align: center;" align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+          </td>
+          <td style="padding: 10px; text-align: center;" align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
           </td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
+
 
 
 
