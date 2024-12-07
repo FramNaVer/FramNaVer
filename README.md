@@ -4,21 +4,72 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY1M3d2cWQ0cWo0OW9qMDAzc3p5dXZzcHI3bjE4ZXZibXlmem82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp" width="100"/>
 </div>
 
-<div align="center", font-weight="bold"><h2>Contact Me</h2></div>
+<div align="center", font-weight="bold"><h2>CONTACT ME</h2></div>
 <div id="badges" align="center">
   <a href="https://simpleicons.org/?q=email">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Tiktok-78B3CE?style=for-the-badge&logo=Tiktok&logoColor=white" alt="TikTok Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Email-FF7F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="WebProfile Badge"/>
+  <a href="https://simpleicons.org/?q=email">
+    <img src="https://img.shields.io/badge/Tiktok-78B3CE?style=for-the-badge&logo=Tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="https://simpleicons.org/?q=email">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://simpleicons.org/?q=email">
+    <img src="https://img.shields.io/badge/Email-FF7F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=FramNaVer&style=flat-square&color=blue" alt=""/>
+  </div>
+  
 </div>
+
+
+
+
+<div id="content" style="font-family: poppins, sans-serif; margin: 20px;">
+  <h2 style="text-align: center; color: #333;">ABOUT</h2>
+  <p style="text-align: justify; line-height: 1.6;">
+    สวัสดีครับ ผมนาย ธนดล อิ่นมะโน ผมมีความสนใจทางด้านการออกแบบและพัฒนาเว็บไซต์ และมีการเรียนรู้เกี่ยวกับเทรน AI 
+    ตลอดจนถึงการพัฒนาเกมครับ
+  </p>
+
+  <div id="skill" style="margin-top: 30px;">
+    <h3 style="text-align: center; color: #444;">SKILLS</h3>
+    <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+      <thead>
+        <tr style="background-color: #f5f5f5; border-bottom: 1px solid #ddd;">
+          <th style="padding: 10px;">Font-End</th>
+          <th style="padding: 10px;">Back-End</th>
+          <th style="padding: 10px;">Databases</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #ddd;">
+          <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          </td>
+          <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          </td>
+          <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
 
 
 นักศึกษาปริญญาตรี
 -----------------
 
-สวัสดีครับผมนาย ธนดล อิ่นมะโน ผมมีความสนใจทางด้านการออกเเบบเเละพัฒนาเว็ปไซต์เเละมีการเรียนรู้เกี่ยวกับเทรน AI ตลอดจนถึงการพัฒนาเกมครับ
+
 
 * 🌍  I'm based in ไทย
 * 🖥️  See my portfolio at [https://webprofile-dgvi.onrender.com](http://webprofile-dgvi.onrender.com)
