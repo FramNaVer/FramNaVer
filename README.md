@@ -1,5 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanadon Inmano
-======================================================================================================================================
+
+<div align="center"><h1>TANADON INMANO</h1></div>
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY1M3d2cWQ0cWo0OW9qMDAzc3p5dXZzcHI3bjE4ZXZibXlmem82dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp" width="100"/>
+</div>
+
+<div align="center", font-weight="bold"><h2>Contact Me</h2></div>
+<div id="badges" align="center">
+  <a href="https://simpleicons.org/?q=email">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/Tiktok-78B3CE?style=for-the-badge&logo=Tiktok&logoColor=white" alt="TikTok Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Email-FF7F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="WebProfile Badge"/>
+</div>
+
 
 นักศึกษาปริญญาตรี
 -----------------
