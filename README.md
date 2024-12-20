@@ -6,16 +6,16 @@
 
 
 <div id="badges" align="center">
-  <a href="https://simpleicons.org/?q=email">
+  <a href="https://www.linkedin.com/in/tanadon-inmano-3bb94929a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://simpleicons.org/?q=email">
+  <a href="https://www.tiktok.com/@framnaver">
     <img src="https://img.shields.io/badge/Tiktok-78B3CE?style=for-the-badge&logo=Tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
-  <a href="https://simpleicons.org/?q=email">
+  <a href="https://www.youtube.com/@tanadoninmano6495">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://simpleicons.org/?q=email">
+  <a href="mailto:framnaver@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF7F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
